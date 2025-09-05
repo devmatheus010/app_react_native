@@ -1,6 +1,6 @@
 # App React Native – Atividade da Faculdade
 
-Este projeto é uma atividade da disciplina **Introdução ao React Native** da faculdade.  
+Este projeto é uma atividade da disciplina **Programação Mobile** da faculdade.  
 O objetivo foi criar um **aplicativo simples** utilizando os principais componentes do React Native.
 
 ---
