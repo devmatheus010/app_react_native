@@ -1,11 +1,37 @@
-# Sample Snack app
+# App React Native – Atividade da Faculdade
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Este projeto é uma atividade da disciplina **Introdução ao React Native** da faculdade.  
+O objetivo foi criar um **aplicativo simples** utilizando os principais componentes do React Native.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+---
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## Funcionalidades
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+- Exibe o nome da Teconolgia usada(`Text`)  
+- Mostra um **GIF animado do React Native** (`Image`)  
+- Campo de entrada de texto (`TextInput`)  
+- Botão **"Mostrar"** para exibir o texto digitado  
+- Botão **"Esconder"** para ocultar o texto exibido  
+- Layout centralizado e estilizado (`StyleSheet`)  
+
+---
+
+## Tecnologias Utilizadas
+
+- [React Native](https://reactnative.dev/)  
+- [Expo](https://expo.dev/)  
+
+---
+
+## Como Rodar o Projeto
+
+1. **No navegador:**  
+   Abra o projeto no **Expo Snack**: [Abrir Snack](https://snack.expo.dev/)  
+
+2. **Localmente:**  
+   Se baixado localmente, rode no terminal:
+   ```bash
+   npm install
+   npx expo start
+
